@@ -3,4 +3,4 @@
 This repo holds all of the official builds of various Ember related
 projects.
 
-* [Ember-EasyForm](tree/master/easyForm)
+* [Ember-EasyForm](easyForm)

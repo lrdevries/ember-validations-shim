@@ -1,6 +1,6 @@
 # Ember-Validations#
 
-Validatinos for Ember Objects
+Validations for Ember Objects
 
 [See the project for more information](https://github.com/dockyard/ember-validations)
 

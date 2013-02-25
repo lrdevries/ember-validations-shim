@@ -6,4 +6,4 @@ Validations for Ember Objects
 
 ## Versions ##
 
-* [0.1.0 - February 21, 2013](https://raw.github.com/bcardarella/ember-builds/master/validations/validations-0.1.0.js) [(minified)](https://raw.github.com/bcardarella/ember-builds/master/validations/validations-0.1.0.min.js) 
+* [0.1.0 - February 24, 2013](https://raw.github.com/bcardarella/ember-builds/master/validations/validations-0.1.0.js) [(minified)](https://raw.github.com/bcardarella/ember-builds/master/validations/validations-0.1.0.min.js) 

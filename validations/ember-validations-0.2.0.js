@@ -1,4 +1,4 @@
-// Last commit: 4bb7b34 (2013-02-26 23:43:16 -0500)
+// Last commit: f9958c6 (2013-02-26 16:07:24 -0500)
 
 
 (function() {
@@ -86,6 +86,7 @@ Ember.Validations.Errors = Ember.Object.extend({
   clear: function() {
     var keys = Object.keys(this);
     for(var i = 0; i < keys.length; i++) {
+      this.set(keys[i], undefined);
       delete this[keys[i]];
     }
   }

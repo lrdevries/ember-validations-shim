@@ -1,9 +1,9 @@
-// Last commit: f9958c6 (2013-02-26 16:07:24 -0500)
+// Last commit: 4bb7b34 (2013-02-26 23:43:16 -0500)
 
 
 (function() {
 Ember.Validations = Ember.Namespace.create({
-  VERSION: '0.0.1'
+  VERSION: '0.2.0'
 });
 
 })();

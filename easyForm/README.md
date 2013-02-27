@@ -6,5 +6,5 @@ A [SimpleForm](https://github.com/plataformatec/simple_form)-like FormBuilder fo
 
 ## Versions ##
 
-* [0.1.1 - February 21, 2013](https://raw.github.com/bcardarella/ember-builds/master/easyForm/ember-easyForm-0.1.1.js) [(minified)](https://raw.github.com/bcardarella/ember-builds/master/easyForm/ember-easyForm-0.1.1.min.js) 
-* [0.1.0 - February 21, 2013](https://raw.github.com/bcardarella/ember-builds/master/easyForm/ember-easyForm-0.1.0.js) [(minified)](https://raw.github.com/bcardarella/ember-builds/master/easyForm/ember-easyForm-0.1.0.min.js) 
+* [0.1.1 - February 21, 2013](https://raw.github.com/dockyard/ember-builds/master/easyForm/ember-easyForm-0.1.1.js) [(minified)](https://raw.github.com/dockyard/ember-builds/master/easyForm/ember-easyForm-0.1.1.min.js) 
+* [0.1.0 - February 21, 2013](https://raw.github.com/dockyard/ember-builds/master/easyForm/ember-easyForm-0.1.0.js) [(minified)](https://raw.github.com/dockyard/ember-builds/master/easyForm/ember-easyForm-0.1.0.min.js) 

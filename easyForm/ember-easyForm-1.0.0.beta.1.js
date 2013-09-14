@@ -1,9 +1,9 @@
-// Last commit: 1f220d2 (2013-09-14 17:42:27 -0400)
+// Last commit: 289fd57 (2013-09-14 18:00:30 -0400)
 
 
 (function() {
 Ember.EasyForm = Ember.Namespace.create({
-  VERSION: '0.3.2'
+  VERSION: '1.0.0.beta.1'
 });
 
 })();

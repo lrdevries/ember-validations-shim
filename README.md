@@ -1,7 +1,5 @@
 # DockYard Builds of Ember Projects #
+Shim repository for dockyard's [ember-validations](https://github.com/dockyard/ember-validations).
 
-This repo holds all of the official builds of various Ember related
-projects.
-
-* [Ember-EasyForm](easyForm)
-* [Ember-Validations](validations)
+Package Managers
+* [Bower](http://bower.io): `ember`
